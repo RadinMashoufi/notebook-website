@@ -1,0 +1,74 @@
+img{
+  width: 150px;
+}
+.cards{
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.title1{
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card1{
+  width: 160px;
+  border: 1px solid rgb(187, 187, 187);
+  padding: 5px;
+}
+.image1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title2{
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card2{
+  width: 160px;
+  border: 1px solid rgb(187, 187, 187);
+  padding: 5px;
+}
+.image2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title3{
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card3{
+  width: 160px;
+  border: 1px solid rgb(187, 187, 187);
+  padding: 5px;
+}
+.image3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title4{
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card4{
+  width: 160px;
+  border: 1px solid rgb(187, 187, 187);
+  padding: 5px;
+}
+.image4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
